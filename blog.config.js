@@ -1,6 +1,6 @@
 const BLOG = {
   title: '李工的博客',
-  author: 'Craig Hart',
+  author: '李工',
   email: 'lbllol684365@gmail.com',
   link: 'https://nobelium.vercel.app',
   description: '热爱编程 热爱兵棋',
