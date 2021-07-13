@@ -3,7 +3,7 @@ const BLOG = {
   author: '李工',
   email: 'lbllol684365@gmail.com',
   link: 'https://nobelium.vercel.app',
-  description: '热爱编程 热爱兵棋',
+  description: '热爱生活 热爱编程 热爱兵棋',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
