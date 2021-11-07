@@ -8,15 +8,16 @@ const BLOG = {
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
-  darkBackground: '#111827', // use hex value, don't forget '#'
+  darkBackground: '#18181B', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
-  since: 2021, // if leave this empty, current year will be used.
+  since: 2021, // If leave this empty, current year will be used.
   postsPerPage: 7,
   sortByDate: false,
   showAbout: true, // WIP
   showArchive: true, // WIP
   autoCollapsedNavBar: false, // the automatically collapsed navigation bar
   socialLink: 'mailto:lbllol684365@gmail.com',
+  ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
